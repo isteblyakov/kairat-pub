@@ -41,6 +41,7 @@
                 "rate": 2,
                 "country": null
             }
+
 ### Регистрация пользователя [PUT /auth]
 + Arguments
 
