@@ -21,7 +21,7 @@
         + home: (Team) - первая команда
             + id: 22 (number) - ID команды.
             + name: Барселона (string) - название команды на русском.
-            + logo: //img.neverbet.com/barcelona.png (string) -  ссылка на лого команды.
+            + logo: //img.prosports.kz/barcelona.png (string) -  ссылка на лого команды.
             + country: ES (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -30,7 +30,7 @@
         + guest: (Team) - вторая команда
             + id: 21 (number) - ID команды.
             + name: Рома (string) - название команды на русском.
-            + logo: //img.neverbet.com/roma.png (string) -  ссылка на лого команды.
+            + logo: //img.prosports.kz/roma.png (string) -  ссылка на лого команды.
             + country: IT (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -105,7 +105,7 @@
         + home: (Team) - первая команда
             + id: 22 (number) - ID команды.
             + name: Барселона (string) - название команды на русском.
-            + logo: //img.neverbet.com/barcelona.png (string) -  ссылка на лого команды.
+            + logo: //img.prosports.kz/barcelona.png (string) -  ссылка на лого команды.
             + country: ES (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -114,7 +114,7 @@
         + guest: (Team) - вторая команда
             + id: 21 (number) - ID команды.
             + name: Рома (string) - название команды на русском.
-            + logo: //img.neverbet.com/roma.png (string) -  ссылка на лого команды.
+            + logo: //img.prosports.kz/roma.png (string) -  ссылка на лого команды.
             + country: IT (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -129,7 +129,7 @@
                 + id: 12 (number) - ID автора
                 + rate: 33 (number) - рейтинг авторa
                 + name: Костян Филатов (string) - имя автора
-                + thumb: "//img.neverbet.com/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+                + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
             + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
             + comments: 12 (number) - кол-во комментариев к публикации
             + rate: 3 (number) - рейтинг публикации
@@ -192,12 +192,12 @@
                         "id":56,
                         "rate":33,
                         "name":"Костян Филатов",
-                        "thumb":"//img.neverbet.com/user/u56.jpg"
+                        "thumb":"//img.prosports.kz/user/u56.jpg"
                     },
                     "dtime": "2016.01.05 20:30",
                     "comments":12,
                     "rate":3,
-                    "body":"<img src='//img.neverbet.com/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                    "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                     "tags": [
                         "Вашингтон"
                     ]
