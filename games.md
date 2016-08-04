@@ -395,3 +395,41 @@
                 ]
             }
         }
+        
+## Медиа
+Медиа материалы к матчу
+
+### Медиа [GET /game/{game_id}/media]
++ Arguments
+    + photos: (Array) - фото к матчу
+    + videos: (Array) - видео к матчу
+    + gifs: (Array) - gifs к матчу
+        
++ Parameters
+    + game_id: 12 (required, number) - ID команды integer
+    
++ Response 200 (application/json)
+
+        {
+            "photos":[
+                {
+                    "id":123,
+                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
+                    "src":"//img.prosports.kz/photos/sdf34rf_big.jpg",
+                }
+            ],
+            "videos":[
+                {
+                    "id":123,
+                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
+                    "src":"//img.prosports.kz/photos/sdf34rf.mp4",
+                }
+            ],
+            "gifs":[
+                {
+                    "id":123,
+                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
+                    "src":"//img.prosports.kz/photos/sdf34rf.gif",
+                }
+            ],
+        }
