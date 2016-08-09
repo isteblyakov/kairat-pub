@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://api.prosports.kz/
+HOST: http://prosports.kz/api/
 
 # Prosports.kz
 Документация по API 1.0 для мобильного приложения PROSPORTS.kz
