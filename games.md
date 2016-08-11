@@ -1,5 +1,5 @@
 # Матч-Центр
-Информация о играх раздела Матч-Центр в API [Prosports](README.md)
+Информация о играх раздела Матч-Центр в API [Kairat](README.md)
 
 ## Список матчей
 Получение списка матчей на определенную дату. Если дата не указана, то список игр на сегодня
@@ -21,7 +21,7 @@
         + home: (Team) - первая команда
             + id: 22 (number) - ID команды.
             + name: Барселона (string) - название команды на русском.
-            + logo: //img.prosports.kz/barcelona.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.kz/barcelona.png (string) -  ссылка на лого команды.
             + country: ES (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -30,7 +30,7 @@
         + guest: (Team) - вторая команда
             + id: 21 (number) - ID команды.
             + name: Рома (string) - название команды на русском.
-            + logo: //img.prosports.kz/roma.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.kz/roma.png (string) -  ссылка на лого команды.
             + country: IT (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -105,7 +105,7 @@
         + home: (Team) - первая команда
             + id: 22 (number) - ID команды.
             + name: Барселона (string) - название команды на русском.
-            + logo: //img.prosports.kz/barcelona.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.kz/barcelona.png (string) -  ссылка на лого команды.
             + country: ES (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -114,7 +114,7 @@
         + guest: (Team) - вторая команда
             + id: 21 (number) - ID команды.
             + name: Рома (string) - название команды на русском.
-            + logo: //img.prosports.kz/roma.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.kz/roma.png (string) -  ссылка на лого команды.
             + country: IT (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -129,7 +129,7 @@
                 + id: 12 (number) - ID автора
                 + rate: 33 (number) - рейтинг авторa
                 + name: Костян Филатов (string) - имя автора
-                + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+                + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
             + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
             + comments: 12 (number) - кол-во комментариев к публикации
             + rate: 3 (number) - рейтинг публикации
@@ -192,12 +192,12 @@
                         "id":56,
                         "rate":33,
                         "name":"Костян Филатов",
-                        "thumb":"//img.prosports.kz/user/u56.jpg"
+                        "thumb":"//img.kairat.kz/user/u56.jpg"
                     },
                     "dtime": "2016.01.05 20:30",
                     "comments":12,
                     "rate":3,
-                    "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                    "body":"<img src='//img.kairat.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                     "tags": [
                         "Вашингтон"
                     ]
@@ -414,22 +414,22 @@
             "photos":[
                 {
                     "id":123,
-                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
-                    "src":"//img.prosports.kz/photos/sdf34rf_big.jpg",
+                    "thumb":"//img.kairat.kz/photos/sdf34rf.jpg",
+                    "src":"//img.kairat.kz/photos/sdf34rf_big.jpg",
                 }
             ],
             "videos":[
                 {
                     "id":123,
-                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
-                    "src":"//img.prosports.kz/photos/sdf34rf.mp4",
+                    "thumb":"//img.kairat.kz/photos/sdf34rf.jpg",
+                    "src":"//img.kairat.kz/photos/sdf34rf.mp4",
                 }
             ],
             "gifs":[
                 {
                     "id":123,
-                    "thumb":"//img.prosports.kz/photos/sdf34rf.jpg",
-                    "src":"//img.prosports.kz/photos/sdf34rf.gif",
+                    "thumb":"//img.kairat.kz/photos/sdf34rf.jpg",
+                    "src":"//img.kairat.kz/photos/sdf34rf.gif",
                 }
             ],
         }
