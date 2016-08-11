@@ -1,8 +1,8 @@
 FORMAT: 1A
-HOST: http://prosports.kz/api/
+HOST: http://kairat.kz/api/
 
 # Prosports.kz
-Документация по API 1.0 для мобильного приложения PROSPORTS.kz
+Документация по API 1.0 для мобильного приложения KAIRAT.kz
 
 + [Новости](news.md)
     +  [Популярные новости](https://github.com/aviapoisk/prosports-api/blob/master/news.md#Публикации-get-feedspopoffset)
