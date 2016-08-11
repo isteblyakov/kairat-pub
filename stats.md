@@ -1,5 +1,5 @@
 # Статистика
-Описание методов раздела Статиска API [Prosports](README.md)
+Описание методов раздела Статиска API [Kairat](README.md)
 
 ## Список турниров
 Возвращает список турниров по группам
@@ -23,7 +23,7 @@
                     {
                         "id" : 12,
                         "name": "Примьер-Лига",
-                        "icon": "//img.prosports.kz/country/EN.png"
+                        "icon": "//img.kairat.kz/country/EN.png"
                     }
                 ]
             },
@@ -32,17 +32,17 @@
                 "groups":[
                     {
                         "name": "Англия",
-                        "icon": "//img.prosports.kz/country/EN.png",
+                        "icon": "//img.kairat.kz/country/EN.png",
                         "turnirs":[
                             {
                                 "id" : 12,
                                 "name": "Примьер-Лига",
-                                "icon": "//img.prosports.kz/country/EN.png",
+                                "icon": "//img.kairat.kz/country/EN.png",
                             },
                             {
                                 "id" : 13,
                                 "name": "Чемпионшип",
-                                "icon": "//img.prosports.kz/country/EN.png",
+                                "icon": "//img.kairat.kz/country/EN.png",
                             }
                         ]
                     }
@@ -67,7 +67,7 @@
             + id: 12 (number) - ID автора
             + rate: 33 (number) - рейтинг авторa
             + name: Костян Филатов (string) - имя автора
-            + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+            + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
         + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
         + comments: 12 (number) - кол-во комментариев к публикации
         + rate: 3 (number) - рейтинг публикации
@@ -84,7 +84,7 @@
                 "name": "Премьер-Лига",
                 "descr": "Чемпионат Англии по футболу",
                 "country": "EN",
-                "logo": "//img.prosports.kz/turnir/enpremier.png",
+                "logo": "//img.kairat.kz/turnir/enpremier.png",
                 "feeds":[
                     {
                         "id": 1235,
@@ -93,12 +93,12 @@
                             "id":56,
                             "rate":33,
                             "name":"Костян Филатов",
-                            "thumb":"//img.prosports.kz/user/u56.jpg"
+                            "thumb":"//img.kairat.kz/user/u56.jpg"
                         },
                         "dtime": "2016.01.05 20:30",
                         "comments":12,
                         "rate":3,
-                        "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                        "body":"<img src='//img.kairat.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                         "tags": [
                             "Вашингтон"
                         ]
@@ -117,7 +117,7 @@
         + id: 12 (number) - ID автора
         + rate: 33 (number) - рейтинг авторa
         + name: Костян Филатов (string) - имя автора
-        + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+        + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
     + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
     + comments: 12 (number) - кол-во комментариев к публикации
     + rate: 3 (number) - рейтинг публикации
@@ -138,7 +138,7 @@
                     "id":56,
                     "rate":33,
                     "name":"Костян Филатов",
-                    "thumb":"//img.prosports.kz/user/u56.jpg"
+                    "thumb":"//img.kairat.kz/user/u56.jpg"
                 },
                 "dtime": "2016.01.05 20:30",
                 "comments":12,
