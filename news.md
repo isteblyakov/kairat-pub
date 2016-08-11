@@ -1,5 +1,5 @@
 # Новости
-Описание методов раздела Новости в API [Prosports](README.md)
+Описание методов раздела Новости в API [Kairat](README.md)
 
 ## Новости
 Список главных новостей
@@ -12,7 +12,7 @@
         + id: 12 (number) - ID автора
         + rate: 33 (number) - рейтинг авторa
         + name: Костян Филатов (string) - имя автора
-        + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+        + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
     + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
     + comments: 12 (number) - кол-во комментариев к публикации
     + rate: 3 (number) - рейтинг публикации
@@ -32,12 +32,12 @@
                     "id":56,
                     "rate":33,
                     "name":"Костян Филатов",
-                    "thumb":"//img.prosports.kz/user/u56.jpg"
+                    "thumb":"//img.kairat.kz/user/u56.jpg"
                 },
                 "dtime": "2016.01.05 20:30",
                 "comments":12,
                 "rate":3,
-                "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                "body":"<img src='//img.kairat.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                 "tags": [
                     "Вашингтон"
                 ]
@@ -55,7 +55,7 @@
         + id: 12 (number) - ID автора
         + rate: 33 (number) - рейтинг авторa
         + name: Костян Филатов (string) - имя автора
-        + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+        + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
     + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
     + comments: 12 (number) - кол-во комментариев к публикации
     + rate: 3 (number) - рейтинг публикации
@@ -75,12 +75,12 @@
                     "id":56,
                     "rate":33,
                     "name":"Костян Филатов",
-                    "thumb":"//img.prosports.kz/user/u56.jpg"
+                    "thumb":"//img.kairat.kz/user/u56.jpg"
                 },
                 "dtime": "2016.01.05 20:30",
                 "comments":12,
                 "rate":3,
-                "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                "body":"<img src='//img.kairat.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                 "tags": [
                     "Вашингтон"
                 ]
@@ -98,7 +98,7 @@
         + id: 12 (number) - ID автора
         + rate: 33 (number) - рейтинг авторa
         + name: Костян Филатов (string) - имя автора
-        + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+        + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
     + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
     + comments: 12 (number) - кол-во комментариев к публикации
         + id: 12 (number) - ID комментария
@@ -106,7 +106,7 @@
             + id: 12 (number) - ID автора
             + rate: 33 (number) - рейтинг авторa
             + name: Костян Филатов (string) - имя автора
-            + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+            + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
         + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
         + body: (string) - комментарий
     + rate: 3 (number) - рейтинг публикации
@@ -125,7 +125,7 @@
                 "id":56,
                 "rate":33,
                 "name":"Костян Филатов",
-                "thumb":"//img.prosports.kz/user/u56.jpg"
+                "thumb":"//img.kairat.kz/user/u56.jpg"
             },
             "dtime": "2016.01.05 20:30",
             "comments":[
@@ -135,14 +135,14 @@
                         "id":56,
                         "rate":33,
                         "name":"Костян Филатов",
-                        "thumb":"//img.prosports.kz/user/u56.jpg"
+                        "thumb":"//img.kairat.kz/user/u56.jpg"
                     },
                     "dtime": "2016.01.05 20:30",
                     "body":"Думаю сейчас ставить на Примеру...Есть идеи?"
                 }
             ],
             "rate":3,
-            "body":"<img src='//img.prosports.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+            "body":"<img src='//img.kairat.kz/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
             "tags": [
                 "Вашингтон"
             ]
@@ -158,7 +158,7 @@
         + id: 12 (number) - ID автора
         + rate: 33 (number) - рейтинг авторa
         + name: Костян Филатов (string) - имя автора
-        + thumb: "//img.prosports.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
+        + thumb: "//img.kairat.kz/thumb/u56.jpg" (string) - адрес к аватарке пользователя
     + dtime: 2016.01.05 20:30 (DateTime) - дата и время публикации в формате Y.m.d H:m 
     + body: (string) - сообщение
         
@@ -174,7 +174,7 @@
                         "id":56,
                         "rate":33,
                         "name":"Костян Филатов",
-                        "thumb":"//img.prosports.kz/user/u56.jpg"
+                        "thumb":"//img.kairat.kz/user/u56.jpg"
                     },
                     "dtime": "2016.01.05 20:30",
                     "body":"Думаю сейчас ставить на Примеру...Есть идеи?"
