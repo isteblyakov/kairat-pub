@@ -1,7 +1,7 @@
 FORMAT: 1A
 HOST: http://kairat.kz/api/
 
-# Prosports.kz
+# KAIRAT.kz
 Документация по API 1.0 для мобильного приложения KAIRAT.kz
 
 + [Новости](news.md)
