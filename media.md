@@ -1,5 +1,5 @@
 # Медиа
-Описание методов раздела Медиа в API [Prosports](README.md)
+Описание методов раздела Медиа в API [Kairat](README.md)
 
 ## Фото
 
@@ -20,7 +20,7 @@
             {
                 "id": 1235,
                 "name":"Все голы в сезоне",
-                "thumb":"//img.prosports.kz/user/u56.jpg"
+                "thumb":"//img.kairat.kz/user/u56.jpg"
                 "dtime": "2016.01.05 20:30",
                 "count":12
             }
@@ -40,8 +40,8 @@
         [
             {
                 "id": 1235,
-                "thumb":"//img.prosports.kz/user/u56.jpg"
-                "src": "//img.prosports.kz/user/u56_big.jpg"
+                "thumb":"//img.kairat.kz/user/u56.jpg"
+                "src": "//img.kairat.kz/user/u56_big.jpg"
             }
         ]
         
@@ -64,7 +64,7 @@
             {
                 "id": 1235,
                 "name":"Все голы в сезоне",
-                "thumb":"//img.prosports.kz/videos/u56.jpg"
+                "thumb":"//img.kairat.kz/videos/u56.jpg"
                 "dtime": "2016.01.05 20:30",
                 "count":12
             }
@@ -84,7 +84,7 @@
         [
             {
                 "id": 1235,
-                "thumb":"//img.prosports.kz/videos/u56.jpg"
-                "src": "//img.prosports.kz/videos/u56.mp4"
+                "thumb":"//img.kairat.kz/videos/u56.jpg"
+                "src": "//img.kairat.kz/videos/u56.mp4"
             }
         ]
