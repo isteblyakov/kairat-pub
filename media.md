@@ -22,14 +22,14 @@
             {
                 "id": 1235,
                 "name":"Все голы в сезоне",
-                "thumb":"//img.kairat.kz/user/u56.jpg"
+                "thumb":"//img.kairat.kz/user/u56.jpg",
                 "dtime": "2016.01.05 20:30",
                 "count":12
             },
             {
                 "id": 1236,
                 "name":"Все голы в сезоне",
-                "thumb":"//img.kairat.kz/user/u56.jpg"
+                "thumb":"//img.kairat.kz/user/u56.jpg",
                 "dtime": "2016.01.05 20:30",
                 "count":12
             }
@@ -51,12 +51,12 @@
         [
             {
                 "id": 1235,
-                "thumb":"//img.kairat.kz/photos/ZU7ksJU-zKE.jpg"
+                "thumb":"//img.kairat.kz/photos/ZU7ksJU-zKE.jpg",
                 "src": "//img.kairat.kz/photos/ZU7ksJU-zKE_big.jpg"
             },
             {
                 "id": 1233,
-                "thumb":"//img.kairat.kz/photos/Гейнрих.jpg"
+                "thumb":"//img.kairat.kz/photos/Гейнрих.jpg",
                 "src": "//img.kairat.kz/photos/Гейнрих_big.jpg"
             }
         ]
@@ -80,7 +80,7 @@
             {
                 "id": 1235,
                 "name":"Все голы в сезоне",
-                "thumb":"//img.kairat.kz/videos/u56.jpg"
+                "thumb":"//img.kairat.kz/videos/u56.jpg",
                 "dtime": "2016.01.05 20:30",
                 "count":12
             }
@@ -100,7 +100,7 @@
         [
             {
                 "id": 1235,
-                "thumb":"//img.kairat.kz/videos/u56.jpg"
+                "thumb":"//img.kairat.kz/videos/u56.jpg",
                 "src": "//img.kairat.kz/videos/u56.mp4"
             }
         ]
