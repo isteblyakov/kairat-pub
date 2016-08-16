@@ -4,6 +4,8 @@
 ## Фото
 
 ### Фотоальбомы [GET /photos/{?offset}]
+Возвращает список фотоальбомов
+
 + Arguments
     + id: (number) - ID номер альбома 
     + name: (string) - название альбома
@@ -23,10 +25,19 @@
                 "thumb":"//img.kairat.kz/user/u56.jpg"
                 "dtime": "2016.01.05 20:30",
                 "count":12
+            },
+            {
+                "id": 1236,
+                "name":"Все голы в сезоне",
+                "thumb":"//img.kairat.kz/user/u56.jpg"
+                "dtime": "2016.01.05 20:30",
+                "count":12
             }
         ]
         
-### Фото в  альбоме [GET /photos/album/{id}]
+### Фото в альбоме [GET /photos/album/{id}]
+Возвращает список фото в альбоме
+
 + Arguments
     + id: (number) - ID фото 
     + thumb: (string) - адрес к миниатюре
@@ -40,8 +51,13 @@
         [
             {
                 "id": 1235,
-                "thumb":"//img.kairat.kz/user/u56.jpg"
-                "src": "//img.kairat.kz/user/u56_big.jpg"
+                "thumb":"//img.kairat.kz/photos/ZU7ksJU-zKE.jpg"
+                "src": "//img.kairat.kz/photos/ZU7ksJU-zKE_big.jpg"
+            },
+            {
+                "id": 1233,
+                "thumb":"//img.kairat.kz/photos/Гейнрих.jpg"
+                "src": "//img.kairat.kz/photos/Гейнрих_big.jpg"
             }
         ]
         
