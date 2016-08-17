@@ -4,7 +4,7 @@
 ## Турнирная таблица
 Возвращает турнирную таблицу, список доступных турниров и сезонов.
 
-### Список [GET /turnirs/{?turnir_id}/{?season_id}]
+### Список [GET /turnir/{?turnir_id}/{?season_id}]
 + Arguments
     + id: (number) - номер турнира   
     + name: (string) - название группы.
