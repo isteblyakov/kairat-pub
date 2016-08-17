@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://kairat.kz/api/
+HOST: http://api.kairat.com/
 
 # KAIRAT.kz
 Документация по API 1.0 для мобильного приложения KAIRAT.kz
