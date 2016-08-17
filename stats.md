@@ -143,7 +143,7 @@
                 "dtime": "2016.01.05 20:30",
                 "comments":12,
                 "rate":3,
-                "body":"<img src='//img.neverbet.com/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
+                "body":"<img src='//img.kairat.com/feeds/u56sdf23gf.jpg'/>Русский форвард #Вашингтона оформил 14-й хет-трик за карьеру в НХЛ",
                 "tags": [
                     "Вашингтон"
                 ]
@@ -216,7 +216,7 @@
         + home: (Team) - первая команда
             + id: 22 (number) - ID команды.
             + name: Барселона (string) - название команды на русском.
-            + logo: //img.neverbet.com/barcelona.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.com/barcelona.png (string) -  ссылка на лого команды.
             + country: ES (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
@@ -225,7 +225,7 @@
         + guest: (Team) - вторая команда
             + id: 21 (number) - ID команды.
             + name: Рома (string) - название команды на русском.
-            + logo: //img.neverbet.com/roma.png (string) -  ссылка на лого команды.
+            + logo: //img.kairat.com/roma.png (string) -  ссылка на лого команды.
             + country: IT (string len=2) - IATA код страны команды.
             + cards - карточки
                 + yellow: 2 (number) - желтые карты
