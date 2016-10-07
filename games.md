@@ -6,10 +6,9 @@
 
 ### Получение списка [GET /games/{?date}]
 + Arguments
-    + turnir:  (Turnir)
-        + id: 21 (number) - ID турнира.
-        + name: Примера (string) - название турнира
-        + country: ES (string) - страна турнира
+    + id: 21 (number) - ID турнира.
+    + name: Примера (string) - название турнира
+    + country: ES (string) - страна турнира
     + games:
         + id: 11 (number) - ID матча.
         + dtime: 2016.02.05 20:00:00 (DateTime) - время проведения матча в формате YY.mm.dd H:m:s (? timezone UTC).
@@ -43,11 +42,9 @@
 
         [
             {
-                "turnir": {
-                    "id": 1,
-                    "name": "Примера",
-                    "country": "ES"
-                },
+                "id": 1,
+                "name": "Примера",
+                "country": "ES"
                 "games":[
                     {
                         "id": 11,
